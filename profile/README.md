@@ -1,4 +1,4 @@
-# UoM MSc in Robotics
+# UoM MSc Robotics
 
 Welcome to the University of Manchester MSc in Robotics organisation.  This is where teaching and learning resources are held for the various units for the course.
 
